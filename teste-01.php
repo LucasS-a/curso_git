@@ -1,5 +1,6 @@
 <?php
 
-echo 'Olá Mundo';
+$pessoa = 'João';
+echo "Olá $pessoa";
 
  ?>
